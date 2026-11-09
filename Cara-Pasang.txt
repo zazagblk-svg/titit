@@ -1,0 +1,10 @@
+TIT: Tebak Istilah Teknologi - Cara memakai sebagai aplikasi
+
+A. Cara cepat (tanpa internet, tanpa pasang)
+1. Ekstrak ZIP ini ke folder mana saja.
+2. Klik dua kali index.html. Game terbuka di browser dan bisa dimainkan offline.
+
+B. Pasang sebagai aplikasi (muncul di desktop atau layar utama HP)
+1. Unggah seluruh isi folder ke hosting HTTPS gratis, misalnya GitHub Pages, Netlify, atau Cloudflare Pages.
+2. Buka alamatnya di Chrome atau Edge, lalu pilih Instal aplikasi (ikon di bilah alamat) atau Tambahkan ke layar utama di HP.
+3. Setelah terpasang, game dibuka seperti aplikasi biasa, di luar folder, dan tetap jalan tanpa internet.
